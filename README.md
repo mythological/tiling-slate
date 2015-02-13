@@ -22,3 +22,7 @@ At that point just open up your Slate menu as shown in the following screen shot
 
 and then select "Relaunch" and load config.
 
+## Demo
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/5nx8sWB-iZA" frameborder="0" allowfullscreen></iframe>
+
