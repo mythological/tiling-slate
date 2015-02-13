@@ -22,7 +22,23 @@ At that point just open up your Slate menu as shown in the following screen shot
 
 and then select "Relaunch" and load config.
 
-## Demo
+## Usage
+To switch window layouts, just use the following key combination:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/5nx8sWB-iZA" frameborder="0" allowfullscreen></iframe>
+    control+command+space
 
+You can also switch focus between windows by using these key combos:
+
+    // switch focus up
+    control+command+k
+
+    // switch focus down
+    control+command+j
+
+    // switch focus right
+    control+command+l
+
+    // switch focus left
+    control+command+h
+
+These keystrokes should seem familiar if you’re a vim user.
