@@ -2,6 +2,8 @@
 
 Turn Slate into a tiling window manager for OSX. 
 
+See my ![blog](http://solstice.me/osx-tiling-workflow) for more details. 
+
 ## Setup
 
 If you are already using Slate, just run the following commands in your terminal:
