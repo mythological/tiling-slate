@@ -1,6 +1,6 @@
 /*********************************************************************************
 Save this in ~/.slate.js
- This configuration file came from $WEBSITE.
+ This configuration file came from http://solstice.me.
  Builds off of the configuration file written by V Verma, without which
  this project would not have been possible. Credit also goes to the Rutgers
  Hackathon Club for introducing me to Slate. Make sure to check them out:
@@ -8,8 +8,7 @@ Save this in ~/.slate.js
  V Verma:
 		http://vverma.net
  Rutgers Hackathon Club: 
-		http://ruhacking.me
-		http://facebook.com/ruhacking
+		https://www.facebook.com/groups/ruhacking
 *********************************************************************************/
 
 
