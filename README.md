@@ -2,7 +2,7 @@
 
 Turn Slate into a tiling window manager for OSX. 
 
-See my ![blog](http://solstice.me/osx-tiling-workflow) for more details. 
+See my [blog](http://solstice.me/osx-tiling-workflow) for more details. 
 
 ## Setup
 
